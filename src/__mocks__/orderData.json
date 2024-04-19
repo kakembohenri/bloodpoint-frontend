@@ -1,0 +1,344 @@
+{
+  "MBARARA": [
+    {
+      "Type of Product": "WB",
+      "O+ Available Units": 6,
+      "O- Available Units": 8,
+      "A+ Available Units": 4,
+      "A- Available Units": 3,
+      "B+ Available Units": 2,
+      "B- Available Units": 1,
+      "AB+ Available Units": 5,
+      "AB- Available Units": 7
+    },
+    {
+      "Type of Product": "PRBCs",
+      "O+ Available Units": 9,
+      "O- Available Units": 12,
+      "A+ Available Units": 5,
+      "A- Available Units": 4,
+      "B+ Available Units": 3,
+      "B- Available Units": 2,
+      "AB+ Available Units": 8,
+      "AB- Available Units": 6
+    },
+    {
+      "Type of Product": "FFP",
+      "O+ Available Units": 7,
+      "O- Available Units": 10,
+      "A+ Available Units": 2,
+      "A- Available Units": 3,
+      "B+ Available Units": 4,
+      "B- Available Units": 6,
+      "AB+ Available Units": 1,
+      "AB- Available Units": 5
+    },
+    {
+      "Type of Product": "FP",
+      "O+ Available Units": 2,
+      "O- Available Units": 3,
+      "A+ Available Units": 4,
+      "A- Available Units": 2,
+      "B+ Available Units": 1,
+      "B- Available Units": 5,
+      "AB+ Available Units": 3,
+      "AB- Available Units": 4
+    },
+    {
+      "Type of Product": "PLT",
+      "O+ Available Units": 6,
+      "O- Available Units": 8,
+      "A+ Available Units": 4,
+      "A- Available Units": 6,
+      "B+ Available Units": 2,
+      "B- Available Units": 3,
+      "AB+ Available Units": 7,
+      "AB- Available Units": 5
+    }
+  ],
+  "MBALE": [
+    {
+      "Type of Product": "WB",
+      "O+ Available Units": 5,
+      "O- Available Units": 6,
+      "A+ Available Units": 7,
+      "A- Available Units": 8,
+      "B+ Available Units": 9,
+      "B- Available Units": 10,
+      "AB+ Available Units": 11,
+      "AB- Available Units": 12
+    },
+    {
+      "Type of Product": "PRBCs",
+      "O+ Available Units": 9,
+      "O- Available Units": 5,
+      "A+ Available Units": 12,
+      "A- Available Units": 15,
+      "B+ Available Units": 10,
+      "B- Available Units": 7,
+      "AB+ Available Units": 3,
+      "AB- Available Units": 2
+    },
+    {
+      "Type of Product": "FFP",
+      "O+ Available Units": 3,
+      "O- Available Units": 5,
+      "A+ Available Units": 8,
+      "A- Available Units": 7,
+      "B+ Available Units": 6,
+      "B- Available Units": 4,
+      "AB+ Available Units": 2,
+      "AB- Available Units": 1
+    },
+    {
+      "Type of Product": "FP",
+      "O+ Available Units": 4,
+      "O- Available Units": 6,
+      "A+ Available Units": 3,
+      "A- Available Units": 4,
+      "B+ Available Units": 5,
+      "B- Available Units": 6,
+      "AB+ Available Units": 7,
+      "AB- Available Units": 8
+    },
+    {
+      "Type of Product": "PLT",
+      "O+ Available Units": 10,
+      "O- Available Units": 5,
+      "A+ Available Units": 7,
+      "A- Available Units": 9,
+      "B+ Available Units": 3,
+      "B- Available Units": 4,
+      "AB+ Available Units": 6,
+      "AB- Available Units": 8
+    }
+  ],
+  "AURA": [
+    {
+      "Type of Product": "WB",
+      "O+ Available Units": 8,
+      "O- Available Units": 6,
+      "A+ Available Units": 5,
+      "A- Available Units": 4,
+      "B+ Available Units": 3,
+      "B- Available Units": 2,
+      "AB+ Available Units": 7,
+      "AB- Available Units": 6
+    },
+    {
+      "Type of Product": "PRBCs",
+      "O+ Available Units": 9,
+      "O- Available Units": 12,
+      "A+ Available Units": 8,
+      "A- Available Units": 7,
+      "B+ Available Units": 6,
+      "B- Available Units": 5,
+      "AB+ Available Units": 4,
+      "AB- Available Units": 3
+    },
+    {
+      "Type of Product": "FFP",
+      "O+ Available Units": 3,
+      "O- Available Units": 5,
+      "A+ Available Units": 7,
+      "A- Available Units": 6,
+      "B+ Available Units": 4,
+      "B- Available Units": 3,
+      "AB+ Available Units": 2,
+      "AB- Available Units": 1
+    },
+    {
+      "Type of Product": "FP",
+      "O+ Available Units": 2,
+      "O- Available Units": 3,
+      "A+ Available Units": 4,
+      "A- Available Units": 2,
+      "B+ Available Units": 1,
+      "B- Available Units": 5,
+      "AB+ Available Units": 3,
+      "AB- Available Units": 4
+    },
+    {
+      "Type of Product": "PLT",
+      "O+ Available Units": 6,
+      "O- Available Units": 8,
+      "A+ Available Units": 4,
+      "A- Available Units": 6,
+      "B+ Available Units": 2,
+      "B- Available Units": 3,
+      "AB+ Available Units": 7,
+      "AB- Available Units": 5
+    }
+  ],
+  "FORT PORTAL": [
+    {
+      "Type of Product": "WB",
+      "O+ Available Units": 7,
+      "O- Available Units": 9,
+      "A+ Available Units": 4,
+      "A- Available Units": 5,
+      "B+ Available Units": 2,
+      "B- Available Units": 3,
+      "AB+ Available Units": 6,
+      "AB- Available Units": 8
+    },
+    {
+      "Type of Product": "PRBCs",
+      "O+ Available Units": 5,
+      "O- Available Units": 6,
+      "A+ Available Units": 7,
+      "A- Available Units": 8,
+      "B+ Available Units": 9,
+      "B- Available Units": 10,
+      "AB+ Available Units": 11,
+      "AB- Available Units": 12
+    },
+    {
+      "Type of Product": "FFP",
+      "O+ Available Units": 2,
+      "O- Available Units": 4,
+      "A+ Available Units": 6,
+      "A- Available Units": 8,
+      "B+ Available Units": 10,
+      "B- Available Units": 12,
+      "AB+ Available Units": 1,
+      "AB- Available Units": 3
+    },
+    {
+      "Type of Product": "FP",
+      "O+ Available Units": 2,
+      "O- Available Units": 3,
+      "A+ Available Units": 4,
+      "A- Available Units": 2,
+      "B+ Available Units": 1,
+      "B- Available Units": 5,
+      "AB+ Available Units": 3,
+      "AB- Available Units": 4
+    },
+    {
+      "Type of Product": "PLT",
+      "O+ Available Units": 6,
+      "O- Available Units": 8,
+      "A+ Available Units": 4,
+      "A- Available Units": 6,
+      "B+ Available Units": 2,
+      "B- Available Units": 3,
+      "AB+ Available Units": 7,
+      "AB- Available Units": 5
+    }
+  ],
+  "LIRA": [
+    {
+      "Type of Product": "WB",
+      "O+ Available Units": 4,
+      "O- Available Units": 6,
+      "A+ Available Units": 3,
+      "A- Available Units": 2,
+      "B+ Available Units": 5,
+      "B- Available Units": 4,
+      "AB+ Available Units": 6,
+      "AB- Available Units": 7
+    },
+    {
+      "Type of Product": "PRBCs",
+      "O+ Available Units": 9,
+      "O- Available Units": 5,
+      "A+ Available Units": 12,
+      "A- Available Units": 15,
+      "B+ Available Units": 10,
+      "B- Available Units": 7,
+      "AB+ Available Units": 3,
+      "AB- Available Units": 2
+    },
+    {
+      "Type of Product": "FFP",
+      "O+ Available Units": 3,
+      "O- Available Units": 5,
+      "A+ Available Units": 8,
+      "A- Available Units": 7,
+      "B+ Available Units": 6,
+      "B- Available Units": 4,
+      "AB+ Available Units": 2,
+      "AB- Available Units": 1
+    },
+    {
+      "Type of Product": "FP",
+      "O+ Available Units": 2,
+      "O- Available Units": 2,
+      "A+ Available Units": 3,
+      "A- Available Units": 4,
+      "B+ Available Units": 5,
+      "B- Available Units": 6,
+      "AB+ Available Units": 7,
+      "AB- Available Units": 8
+    },
+    {
+      "Type of Product": "PLT",
+      "O+ Available Units": 10,
+      "O- Available Units": 5,
+      "A+ Available Units": 7,
+      "A- Available Units": 9,
+      "B+ Available Units": 3,
+      "B- Available Units": 4,
+      "AB+ Available Units": 6,
+      "AB- Available Units": 8
+    }
+  ],
+  "GULU": [
+    {
+      "Type of Product": "WB",
+      "O+ Available Units": 6,
+      "O- Available Units": 8,
+      "A+ Available Units": 4,
+      "A- Available Units": 3,
+      "B+ Available Units": 2,
+      "B- Available Units": 1,
+      "AB+ Available Units": 5,
+      "AB- Available Units": 7
+    },
+    {
+      "Type of Product": "PRBCs",
+      "O+ Available Units": 9,
+      "O- Available Units": 12,
+      "A+ Available Units": 5,
+      "A- Available Units": 4,
+      "B+ Available Units": 3,
+      "B- Available Units": 2,
+      "AB+ Available Units": 8,
+      "AB- Available Units": 6
+    },
+    {
+      "Type of Product": "FFP",
+      "O+ Available Units": 7,
+      "O- Available Units": 10,
+      "A+ Available Units": 2,
+      "A- Available Units": 3,
+      "B+ Available Units": 4,
+      "B- Available Units": 6,
+      "AB+ Available Units": 1,
+      "AB- Available Units": 5
+    },
+    {
+      "Type of Product": "FP",
+      "O+ Available Units": 2,
+      "O- Available Units": 3,
+      "A+ Available Units": 4,
+      "A- Available Units": 2,
+      "B+ Available Units": 1,
+      "B- Available Units": 5,
+      "AB+ Available Units": 3,
+      "AB- Available Units": 4
+    },
+    {
+      "Type of Product": "PLT",
+      "O+ Available Units": 6,
+      "O- Available Units": 8,
+      "A+ Available Units": 4,
+      "A- Available Units": 6,
+      "B+ Available Units": 2,
+      "B- Available Units": 3,
+      "AB+ Available Units": 7,
+      "AB- Available Units": 5
+    }
+  ]
+}
